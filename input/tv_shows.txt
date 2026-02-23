@@ -1,0 +1,5 @@
+The Mandalorian,Science Fiction,8.7/10,40,2,Pedro Pascal,Gina Carano,Carl Weathers
+Stranger Things,Drama-Fantasy-Horror,8.7/10,50,4,Winona Ryder,David Harbour,Millie Bobby Brown
+Doctor Who,Adventure-Drama-Family,8.6/10,45,13,Jodie Whittaker,Mandip Gill,Tosin Cole
+Game of Thrones,Action-Adventure-Drama,9.3/10,57,8,Emilia Clarke,Kit Harington,Peter Dinklage
+The Office,Comedy,8.9/10,22,9,Steve Carell,Rainn Wilson,John Krasinski
